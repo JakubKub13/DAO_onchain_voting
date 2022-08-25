@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 // This is gonna be additional contract that is the OWNER of the Box contract
 // We want to wait for a new vote to be executed
