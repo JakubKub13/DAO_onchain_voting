@@ -1,2 +1,3 @@
-Basic example of onchain voting mechanism based on DAO# DAO_onchain_voting
+Basic example of onchain voting mechanism based on DAO
+Contains Deploy scripts and test script
 
